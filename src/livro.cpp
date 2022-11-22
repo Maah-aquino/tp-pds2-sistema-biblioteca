@@ -6,3 +6,4 @@ void Livro::exibirInformacoes(){
 	cout << "Assunto: " << Livro::getAssuntoLivro() << endl;
 	cout << "Quantidade Total: " << Livro::getQtdeLivro() << endl;
 	
+}
