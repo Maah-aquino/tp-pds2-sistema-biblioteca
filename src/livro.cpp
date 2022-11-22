@@ -5,4 +5,4 @@ void Livro::exibirInformacoes(){
 	cout << "Edição: " << Livro::getEdicaoLivro() << endl;
 	cout << "Assunto: " << Livro::getAssuntoLivro() << endl;
 	cout << "Quantidade Total: " << Livro::getQtdeLivro() << endl;
-	
+}
